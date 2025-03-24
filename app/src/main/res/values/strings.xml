@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediVault</string>
+    <string name="welcome_message">Welcome to MediVault</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_records">Records</string>
+    <string name="nav_appointments">Appointments</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Dashboard Screen -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="recent_records">Recent Records</string>
+    <string name="no_records">No records yet. Click to add your first record.</string>
+    <string name="upcoming_appointments">Upcoming Appointments</string>
+    <string name="no_appointments">No upcoming appointments. Click to schedule one.</string>
+    <string name="my_medications">My Medications</string>
+    <string name="no_medications">No medications added yet. Click to add medications.</string>
+    
+    <!-- Profile Screen -->
+    <string name="profile_title">Profile</string>
+    <string name="no_profile">No profile set up yet</string>
+    <string name="profile_setup_prompt">Create your profile to track your medical records</string>
+    <string name="create_profile">Create My Profile</string>
+    <string name="add_family_member">Add Family Member</string>
+    
+    <!-- Common Actions -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+</resources> 
