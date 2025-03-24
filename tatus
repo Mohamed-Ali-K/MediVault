@@ -1,0 +1,5 @@
+[33mcommit 95d39cec2fa249499106725a659c480337c7cda1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/unit-tests[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Mohamed Ali KENIS <kenis.mohamed.ali@gmail.com>
+Date:   Mon Mar 24 17:59:31 2025 +0100
+
+    Clean up: Remove old meditrack package structure
