@@ -1,0 +1,58 @@
+# Cursor AI Ignore Rules
+
+# Build outputs
+build/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Gradle files
+.gradle/
+gradle-wrapper.jar
+gradlew
+gradlew.bat
+local.properties
+
+# Android Studio generated files
+.idea/
+*.iml
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated files
+bin/
+gen/
+out/
+
+# Log Files
+*.log
+
+# Version control
+.git/
+.gitignore
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large binary files
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.zip
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3 
