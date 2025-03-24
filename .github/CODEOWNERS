@@ -1,0 +1,23 @@
+# These owners will be the default owners for everything in the repo
+* @yourusername
+
+# App core functionality
+/app/src/main/java/com/medivault/ @yourusername
+
+# UI related files
+/app/src/main/java/com/medivault/ui/ @yourusername
+
+# Data and repository related files
+/app/src/main/java/com/medivault/data/ @yourusername
+
+# Tests
+/app/src/test/ @yourusername
+/app/src/androidTest/ @yourusername
+
+# Build configuration
+/app/build.gradle @yourusername
+/build.gradle @yourusername
+/settings.gradle @yourusername
+
+# CI/CD configuration
+/.github/workflows/ @yourusername 
